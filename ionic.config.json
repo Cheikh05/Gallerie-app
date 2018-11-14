@@ -1,0 +1,7 @@
+{
+  "name": "GallerieApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
